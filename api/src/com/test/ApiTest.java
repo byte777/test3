@@ -10,8 +10,8 @@ package com.test;
 public class ApiTest{
 
     public static void main(String[] args){
-        System.out.println("logic hello world");
-        System.out.println("logic hello world B");
+        System.out.println("api hello world");
+        System.out.println("api hello world B");
     }
 
 }
