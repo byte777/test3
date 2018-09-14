@@ -10,9 +10,9 @@ package com.test;
 public class LogicTest{
 
     public static void main(String[] args){
-        System.out.println("api hello world");
-        System.out.println("api hello world");
-        System.out.println("api hello world3");
+        System.out.println("logic hello world");
+        System.out.println("logic hello world");
+        System.out.println("logic hello world3");
     }
 
 }
